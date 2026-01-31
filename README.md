@@ -41,7 +41,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 ### 1- Repoyu klonlayın:
 
 Bash
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/AliYilmaz16/Balon-Takip.git
 cd proje-adi
 
 ### 2- Gereklilikleri yükleyin:
