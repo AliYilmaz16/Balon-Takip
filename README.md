@@ -42,7 +42,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 Bash
 git clone https://github.com/AliYilmaz16/Balon-Takip.git
-cd proje-adi
+cd Balon-Takip
 
 ### 2- Gereklilikleri yükleyin:
 
