@@ -1,4 +1,4 @@
-# Balon-Takip
+# Balon Takip Sistemi
 Teknofest Hava Savunma Sistemleri Yarışması için geliştirilmiştir.
 
 ## Proje Özeti
